@@ -1,4 +1,4 @@
-## **NLP Project - Patronizing Language Classifier (SemEval 2022 Task 4 **
+## NLP Project - Patronizing Language Classifier (SemEval 2022 Task 4 
 
 Key Implementations:
 
