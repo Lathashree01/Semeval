@@ -10,7 +10,7 @@ Key Implementations:
 - Developed a RoBERTa-based model for text classification.
 
 3. Top Performance:
-- Achieved top 3rd place F1 score on the held-out test dataset.
+- Achieved top 3rd place F1 score on the held-out test dataset (amongst the cohort of.
 
 4. Hyperparameter Tuning:
 - Used the Optuna library for hyperparameter tuning.
