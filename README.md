@@ -18,8 +18,8 @@ Key Implementations:
 The project showcases my ability to build and evaluate NLP models, from simple baselines to more advanced state-of-the-art approaches. 
 Developed this as part of my Master's module - "Natural Language Processing" group project.
 
-Feel free to explore the code and replicate the results. If you have any questions or feedback, please don't hesitate to reach out.
+If you have any questions or feedback, please don't hesitate to reach out.
 
 Few Important links:
-Challenge website - https://competitions.codalab.org/competitions/34344
+Challenge website - https://competitions.codalab.org/competitions/34344 \
 Link to github repo - https://github.com/Perez-AlmendrosC/dontpatronizeme
